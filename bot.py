@@ -16,7 +16,7 @@ CSV_FILE = "consumers.csv"
 
 # PDF config
 PDF_FILE = "bills.pdf"
-PDF_URL = "https://drive.google.com/uc?export=download&id=1A2RNG8qc_JboJ7Y55uzDvIbbq1cF2zfS"
+PDF_URL = "https://limewire.com/d/zpbkv#3z348wSYbx"
 
 # ============================================
 
