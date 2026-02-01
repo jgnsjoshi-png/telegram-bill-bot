@@ -7,7 +7,7 @@ from PyPDF2 import PdfReader, PdfWriter
 TOKEN = os.getenv("TOKEN")
 CSV_FILE = "consumers.csv"
 PDF_FILE = "bills.pdf"
-PDF_URL = "https://limewire.com/d/zpbkv#3z348wSYbx"
+PDF_URL = "https://drive.google.com/file/d/1A2RNG8qc_JboJ7Y55uzDvIbbq1cF2zfS/view?usp=drivesdk
 
 def download_pdf():
     if not os.path.exists(PDF_FILE):
